@@ -1,7 +1,7 @@
 # Padrao de Projeto Singleton
 Projeto destinado a estudo acadêmico de Arquitetura e Projeto de Software.
 
-Esse repositóro está sendo abordado o Padrão de Projeto Singleton.
+Padrão de Projeto Singleton.
 
 **Diagrama de Classes:**
 
