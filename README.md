@@ -5,5 +5,6 @@ Padrão de Projeto Singleton.
 
 **Diagrama de Classes:**
 
-<img width="688" height="514" alt="Captura de tela 2026-03-21 154604" src="https://github.com/user-attachments/assets/c74238b3-05b1-4fa9-8e7d-d2e70cb4028e" />
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/cdbe2192-549d-4fc5-bb33-deeac390d1fd" />
+
 
